@@ -169,3 +169,5 @@ function searchProduct(searchInput){
     })
 
 }
+
+
